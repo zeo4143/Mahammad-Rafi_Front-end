@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #323131;
+    
+}
+.list {
+    color: white;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    flex: 1 1 auto;
+    height: 10rem;
+    width: 15rem;
+    flex-wrap: wrap;
+}
+
+.uList {
+    
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 32px;
+    font-weight: bold;
+}
+
